@@ -1,0 +1,149 @@
+a {
+    text-decoration: none !important;
+}
+.profile{
+    color: black !important;
+}
+
+.perfil {
+    padding-top: 20px;
+    display: flex;
+}
+
+.viewprofile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    width: 200px;
+    height: 100px;
+    border: 1px solid #b0b0b0;
+    border-radius: 30px;
+}
+
+.imgProfile {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-right: 100px;
+}
+
+.infoProfile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #b0b0b0;
+    width: 1600px;
+}
+
+.datosProfile {
+    padding: 200px;
+    border: 1px solid #b0b0b0;
+}
+
+.datos {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.dataProfile {
+    width: 500px;
+    height: 500px;
+}
+
+.inputDate {
+    width: 200px;
+}
+
+.buttonModificar {
+    display: flex;
+    justify-content: end;
+    margin-top: 50px;
+}
+
+.camera {
+    font-size: 200px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.zoneCamera {
+    height: 360px;
+    width: 400px;
+}
+
+.inputPost {
+    width: 400px;
+    height: 100px;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.inputPostGeneral {
+    padding-left: 100px;
+
+}
+
+.buttonPublicar {
+    padding: 20px !important;
+    font-size: 20px !important;
+}
+
+.Card {
+    padding: 60px !important;
+}
+
+.Pay {
+    border: 1px solid #000000;
+    width: 90vw;
+    height: 85vh;
+}
+
+.Pago {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgPay {
+    width: 100px;
+    height: 100px;
+}
+
+.ProductPay {
+    width: 60vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid #000000;
+    margin: 20px;
+}
+
+.MasMenos {
+    display: flex;
+    align-items: center;
+}
+
+.Cantidad {
+    padding: 15px;
+
+}
+
+.Total {
+    padding-top: 50px;
+    text-align: right;
+    width: 1400px;
+}
+
+.buttonPay {
+    display: flex;
+    justify-content: end;
+    padding-right: 200px;
+}
+
+.form-control {
+    border: var(--bs-border-width) solid var(--bs-border-color) !important;
+    --bs-border-color: #99ceff !important;
+}
